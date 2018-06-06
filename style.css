@@ -1,0 +1,92 @@
+body {
+    margin: 0px;
+}
+
+/******************************************************************************/
+.header {
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+    background-color: #A32238;
+    text-align: center;
+    color: white;
+}
+
+.header h1 {
+    margin-bottom: 0px;
+
+    font-family: 'El Rio Lobo';
+    color: #F4B031;
+}
+
+.header h2 {
+    margin-top: 0px;
+}
+
+/******************************************************************************/
+.block1 {
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    background-color: #0089C0;
+}
+
+.block1 .img1 {
+    display: block;
+    position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 450px;
+}
+
+/******************************************************************************/
+.block2 {
+    margin: 0px;
+
+    background-image: url(assets/images/cuzco2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #CCCCCC;
+}
+
+.block2 .over-img-titulo {
+    margin: 0px;
+
+    text-align: right;
+    font-size: 30px;
+    font-family: 'El Rio Lobo';
+    color: #F4B031;
+}
+
+.block2 .over-img {
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 155px;
+
+    text-align: right;
+    color: #FFFFFF;
+}
+
+/******************************************************************************/
+.footer {
+    margin: 0px;
+
+    text-align: center;
+}
+
+.footer .titulo-precios {
+    margin-bottom: 0px;
+
+    font-family: 'El Rio Lobo';
+    font-size: 70px;
+}
+
+.footer .precios {
+    margin-top: 20px;
+
+    font-family: 'El Rio Lobo';
+    font-size: 55px;
+}
